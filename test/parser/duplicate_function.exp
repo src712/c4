@@ -1,0 +1,3 @@
+test/parser/duplicate_function.test:2:1: error: 'f' redeclared with a different type
+test/parser/duplicate_function.test:3:1: error: 'f' redeclared with a different type
+2 error(s)

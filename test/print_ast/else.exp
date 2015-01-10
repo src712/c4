@@ -1,0 +1,42 @@
+int (main(void))
+{
+	int a;
+	int b;
+	int c;
+	int d;
+	int e;
+	if (a) {
+		b;
+	} else
+		c;
+	if (a)
+		b;
+	else
+		c;
+	if (a) {
+		b;
+	} else {
+		c;
+	}
+	if (a)
+		b;
+	else {
+		c;
+	}
+	if (a) {
+		b;
+	} else if (c) {
+		d;
+	}
+	if (a)
+		b;
+	else if (c) {
+		d;
+	}
+	if (a)
+		if (c)
+			d;
+		else
+			e;
+	return 0;
+}

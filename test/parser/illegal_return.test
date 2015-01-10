@@ -1,0 +1,10 @@
+int g(void) {
+    int* y; int x;
+    y = &x;
+    return y;
+    return ;
+}
+
+void h(void) {
+    return 3;
+}

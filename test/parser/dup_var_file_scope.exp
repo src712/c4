@@ -1,0 +1,2 @@
+test/parser/dup_var_file_scope.test:3:1: error: 'x' redeclared with a different type
+1 error(s)

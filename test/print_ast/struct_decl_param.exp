@@ -1,0 +1,4 @@
+int (f(struct B (*bob), int y))
+{
+	return 3;
+}

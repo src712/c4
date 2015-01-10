@@ -1,0 +1,2 @@
+test/parser/dup_param_in_decl.test:1:14: error: 'x' redeclared
+1 error(s)

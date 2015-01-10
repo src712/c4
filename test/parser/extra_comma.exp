@@ -1,0 +1,4 @@
+test/parser/extra_comma.test:1:13: error: expected a 'type-specifier', got ','
+test/parser/extra_comma.test:1:22: error: expected a 'type-specifier', got ')'
+test/parser/extra_comma.test:6:12: error: expected expression before ')' token
+3 error(s)

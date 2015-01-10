@@ -1,0 +1,4 @@
+test/parser/empty_struct.test:1:8: error: expected token 'identifier', got '{'
+test/parser/empty_struct.test:1:1: error: struct has no members
+test/parser/empty_struct.test:2:8: error: expected token 'identifier', got ';'
+3 error(s)

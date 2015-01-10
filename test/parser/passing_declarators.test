@@ -1,0 +1,12 @@
+int f(int, char*);
+int g(int x, int);
+int k(char*, char* x);
+int j(void);
+int q(void x);
+int j(void) { return 2; }
+int t(void*);
+int l(void*, void*);
+int l(void* a, void* b) { return 72; }
+int a;
+int m(int a);
+int m(int a) { return 0; }

@@ -1,0 +1,2 @@
+test/parser/undeclared_var.test:2:12: error: 'x' undeclared
+1 error(s)

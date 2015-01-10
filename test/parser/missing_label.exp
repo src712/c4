@@ -1,0 +1,2 @@
+test/parser/missing_label.test:2:5: error: label 'boo' used but not defined
+1 error(s)

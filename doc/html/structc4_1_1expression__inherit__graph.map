@@ -1,0 +1,12 @@
+<map id="c4::expression" name="c4::expression">
+<area shape="rect" id="node5" href="$structc4_1_1binary__operator.html" title="c4::binary_operator" alt="" coords="319,5,452,35"/>
+<area shape="rect" id="node7" href="$structc4_1_1function__call.html" title="c4::function_call" alt="" coords="327,59,444,88"/>
+<area shape="rect" id="node9" href="$structc4_1_1postfix__operator.html" title="c4::postfix_operator" alt="" coords="317,112,453,141"/>
+<area shape="rect" id="node11" href="$structc4_1_1primary__expression.html" title="c4::primary_expression" alt="" coords="307,165,464,195"/>
+<area shape="rect" id="node13" href="$structc4_1_1sizeof__expr.html" title="c4::sizeof_expr" alt="" coords="331,219,440,248"/>
+<area shape="rect" id="node15" href="$structc4_1_1sizeof__type.html" title="c4::sizeof_type" alt="" coords="331,272,440,301"/>
+<area shape="rect" id="node17" href="$structc4_1_1subscript__operator.html" title="c4::subscript_operator" alt="" coords="311,325,460,355"/>
+<area shape="rect" id="node19" href="$structc4_1_1ternary__expr.html" title="c4::ternary_expr" alt="" coords="328,379,443,408"/>
+<area shape="rect" id="node21" href="$structc4_1_1unary__operator.html" title="c4::unary_operator" alt="" coords="320,432,451,461"/>
+<area shape="rect" id="node2" href="$structc4_1_1ast__node.html" title="c4::ast_node" alt="" coords="7,219,103,248"/>
+</map>

@@ -1,0 +1,2 @@
+test/parser/unmatched.test:3:24: error: expected token ';', got ')'
+1 error(s)

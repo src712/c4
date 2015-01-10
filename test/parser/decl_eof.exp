@@ -1,0 +1,2 @@
+test/parser/decl_eof.test:1:6: error: expected token ';', got 'EOF'
+1 error(s)

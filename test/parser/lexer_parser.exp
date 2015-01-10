@@ -1,0 +1,3 @@
+test/parser/lexer_parser.test:2:7: error: unterminated comment
+test/parser/lexer_parser.test:4:1: error: expected token '}', got 'EOF'
+2 error(s)

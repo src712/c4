@@ -1,0 +1,11 @@
+int main(void) {
+    int* x;
+    int y;
+    int* a;
+    int b;
+    y = 3;
+    a = &y;
+    b = 5;
+    a = &b;
+    return sizeof (x - a);
+}

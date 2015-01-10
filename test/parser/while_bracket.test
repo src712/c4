@@ -1,0 +1,11 @@
+int func5(void){
+
+int n;
+int a;
+n=0;
+while[ n!=0]
+ {
+	a= a+1;
+ }
+}
+

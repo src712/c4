@@ -1,0 +1,7 @@
+int f(int a,, char c,) {
+return a + c;
+}
+
+void g(void) {
+  f(5, 'a',);
+}

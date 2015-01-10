@@ -1,0 +1,15 @@
+struct G {
+  int x;
+  int y;
+}* g;
+
+
+void f(void) {
+  return g;
+}
+
+int main(void) {
+  if(f())
+    return 42;
+  return 8;
+}

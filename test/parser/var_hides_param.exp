@@ -1,0 +1,2 @@
+test/parser/var_hides_param.test:2:5: error: 'y' redeclared
+1 error(s)

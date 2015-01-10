@@ -1,0 +1,7 @@
+test/lexer/ambiguous.test:1:1: constant '\?'
+test/lexer/ambiguous.test:2:1: constant '?'
+test/lexer/ambiguous.test:3:1: constant '\"'
+test/lexer/ambiguous.test:4:1: constant '"'
+test/lexer/ambiguous.test:5:1: constant '\\'
+test/lexer/ambiguous.test:6:1: error: missing terminating ' character
+1 error(s)

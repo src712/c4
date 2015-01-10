@@ -1,0 +1,2 @@
+test/lexer/string_with_escape.test:1:1: error: unknown escape sequence \m
+1 error(s)

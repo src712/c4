@@ -1,0 +1,7 @@
+int main(void) {
+    int res;
+    res = sizeof 'a';
+    res = res + sizeof 5;
+    res = res + sizeof "dog";
+    return res;
+}

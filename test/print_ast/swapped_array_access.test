@@ -1,0 +1,13 @@
+int f(int y) {
+    return y;
+}
+
+int main(void) {
+    int x;
+    x = 7;
+    int* boo;
+    boo = &x;   
+    boo[1] = 9;
+    x = 1[boo];
+    return f(boo[3[boo]]);
+}

@@ -1,0 +1,5 @@
+test/lexer/line_ending.test:2:1: identifier a
+test/lexer/line_ending.test:3:1: identifier b
+test/lexer/line_ending.test:4:1: identifier c
+test/lexer/line_ending.test:5:1: identifier d
+test/lexer/line_ending.test:6:1: identifier e

@@ -1,0 +1,4 @@
+test/parser/invalid_expr.test:4:3: error: expected token ';', got 'integer constant'
+test/parser/invalid_expr.test:6:3: error: expected expression before '}' token
+test/parser/invalid_expr.test:6:3: error: expected token ';', got '}'
+3 error(s)

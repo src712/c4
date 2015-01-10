@@ -1,0 +1,3 @@
+int main (void) <%
+int* boo;
+boo<:3:>;return 5;%>

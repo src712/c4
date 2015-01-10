@@ -1,0 +1,12 @@
+int f(void) { return 7;}
+
+int main(void) {
+    int x;
+    x = sizeof (f)();
+    x = x + sizeof (int (*)(void));
+    x = x + sizeof 'z';
+    x = x + sizeof "doiajsdofja";
+    x = x + sizeof('\n');
+    x = x + sizeof sizeof 7 + 4;
+    return x;
+}

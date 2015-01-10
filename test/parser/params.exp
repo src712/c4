@@ -1,0 +1,5 @@
+test/parser/params.test:11:6: error: argument at position 1 does not have expected type
+test/parser/params.test:12:6: error: passed 1 argument(s) to function expecting 0
+test/parser/params.test:13:6: error: passed 0 argument(s) to function expecting 1
+test/parser/params.test:14:6: error: argument at position 1 does not have expected type
+4 error(s)

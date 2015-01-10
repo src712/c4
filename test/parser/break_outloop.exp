@@ -1,0 +1,2 @@
+test/parser/break_outloop.test:6:1: error: break statement not within loop
+1 error(s)

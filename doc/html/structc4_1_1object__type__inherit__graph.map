@@ -1,0 +1,8 @@
+<map id="c4::object_type" name="c4::object_type">
+<area shape="rect" id="node5" href="$structc4_1_1scalar__type.html" title="c4::scalar_type" alt="" coords="91,160,200,189"/>
+<area shape="rect" id="node11" href="$structc4_1_1struct__type.html" title="c4::struct_type" alt="" coords="224,160,333,189"/>
+<area shape="rect" id="node13" href="$structc4_1_1void__type.html" title="c4::void_type" alt="" coords="357,160,456,189"/>
+<area shape="rect" id="node2" href="$structc4_1_1type.html" title="c4::type" alt="" coords="244,5,313,35"/>
+<area shape="rect" id="node7" href="$structc4_1_1arithmetic__type.html" title="c4::arithmetic_type" alt="" coords="5,237,139,267"/>
+<area shape="rect" id="node9" href="$structc4_1_1pointer__type.html" title="c4::pointer_type" alt="" coords="163,237,277,267"/>
+</map>

@@ -1,0 +1,2 @@
+test/parser/var_hides_function.test:11:14: error: called object that is not a function or pointer to a function
+1 error(s)

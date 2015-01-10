@@ -1,0 +1,2 @@
+test/lexer/cr2.test:2:1: constant 2
+test/lexer/cr2.test:3:1: identifier a

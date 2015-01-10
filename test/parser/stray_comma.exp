@@ -1,0 +1,5 @@
+test/parser/stray_comma.test:1:17: error: expected expression before ',' token
+test/parser/stray_comma.test:1:17: error: expected token ';', got ','
+test/parser/stray_comma.test:2:12: error: expected expression before ',' token
+test/parser/stray_comma.test:2:12: error: expected token ';', got ','
+4 error(s)

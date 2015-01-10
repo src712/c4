@@ -1,0 +1,3 @@
+int f(char b, int) {
+    return 2;
+}

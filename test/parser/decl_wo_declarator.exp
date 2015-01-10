@@ -1,0 +1,5 @@
+test/parser/decl_wo_declarator.test:2:1: error: declaration with empty declarator
+test/parser/decl_wo_declarator.test:4:1: error: declaration with empty declarator
+test/parser/decl_wo_declarator.test:7:1: error: declaration with empty declarator
+test/parser/decl_wo_declarator.test:6:1: error: struct has no members
+4 error(s)

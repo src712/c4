@@ -1,0 +1,8 @@
+#include "compile.h"
+#include "ast.h"
+
+namespace c4 {
+
+  void compile(std::unique_ptr<ast_node>&) {}
+
+}

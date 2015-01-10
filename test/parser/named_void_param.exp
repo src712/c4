@@ -1,0 +1,6 @@
+test/parser/named_void_param.test:1:7: error: parameter 1 has incomplete type
+test/parser/named_void_param.test:2:7: error: 'void' must be the only parameter
+test/parser/named_void_param.test:3:12: error: 'void' must be the only parameter
+test/parser/named_void_param.test:5:15: error: parameter 2 has incomplete type
+test/parser/named_void_param.test:6:7: error: 'void' must be the only parameter
+5 error(s)

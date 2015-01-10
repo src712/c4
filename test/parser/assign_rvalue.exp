@@ -1,0 +1,4 @@
+test/parser/assign_rvalue.test:2:11: error: modifiable lvalue required as left operand of assignment
+test/parser/assign_rvalue.test:4:11: error: modifiable lvalue required as left operand of assignment
+test/parser/assign_rvalue.test:6:13: error: modifiable lvalue required as left operand of assignment
+3 error(s)

@@ -1,0 +1,2 @@
+test/lexer/invalid_comment.test:1:1: error: unterminated comment
+1 error(s)

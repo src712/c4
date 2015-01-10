@@ -1,0 +1,4 @@
+test/parser/while_bracket.test:6:6: error: expected token '(', got '['
+test/parser/while_bracket.test:6:6: error: expected expression before '[' token
+test/parser/while_bracket.test:7:2: error: expected token ')', got '{'
+3 error(s)

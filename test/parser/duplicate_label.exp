@@ -1,0 +1,2 @@
+test/parser/duplicate_label.test:4:8: error: duplicate label 'boo'
+1 error(s)

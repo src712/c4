@@ -1,0 +1,4 @@
+test/parser/illegal_return.test:4:5: error: incompatible types when returning
+test/parser/illegal_return.test:5:5: error: 'return' with no value in function returning non-void
+test/parser/illegal_return.test:9:5: error: 'return' with an expression in function returning void
+3 error(s)

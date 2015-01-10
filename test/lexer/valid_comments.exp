@@ -1,0 +1,12 @@
+test/lexer/valid_comments.test:2:1: keyword int
+test/lexer/valid_comments.test:2:5: identifier x
+test/lexer/valid_comments.test:2:6: punctuator ;
+test/lexer/valid_comments.test:13:1: keyword int
+test/lexer/valid_comments.test:13:5: identifier y
+test/lexer/valid_comments.test:13:6: punctuator ;
+test/lexer/valid_comments.test:23:1: identifier x
+test/lexer/valid_comments.test:23:3: punctuator =
+test/lexer/valid_comments.test:23:5: punctuator *
+test/lexer/valid_comments.test:23:6: identifier p
+test/lexer/valid_comments.test:29:3: punctuator *
+test/lexer/valid_comments.test:29:4: punctuator /

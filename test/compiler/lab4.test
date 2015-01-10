@@ -1,0 +1,11 @@
+int main(void) {
+    int x;
+    x = 0;
+    a: x = x + 1;
+    while(x < 13) {
+     goto a;
+     x = 30;
+   }
+   return x;
+}
+    

@@ -1,0 +1,11 @@
+int main(void) {
+    struct B {
+      int** gah;
+      }	boo;
+int foo;
+foo = 3 + 7;
+if (foo == 9 - 12 * 3 + 4) {
+   *boo.gah[3];
+}
+return 72;
+}

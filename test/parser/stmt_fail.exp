@@ -1,0 +1,3 @@
+test/parser/stmt_fail.test:5:15: error: expected token ':', got ';'
+test/parser/stmt_fail.test:5:15: error: expected expression before ';' token
+2 error(s)

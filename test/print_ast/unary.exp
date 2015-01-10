@@ -1,0 +1,11 @@
+int (f(void))
+{
+	int y;
+	struct S
+	{
+		int x;
+	} s;
+	struct S (*p);
+	(p = (&s));
+	return (-((*(&(s.x))) + ((sizeof (s.x)) * ((p->x) - y))));
+}

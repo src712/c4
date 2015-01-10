@@ -1,0 +1,28 @@
+<map id="src/token.h" name="src/token.h">
+<area shape="rect" id="node3" href="$ast_8h.html" title="src/ast.h" alt="" coords="598,83,670,112"/>
+<area shape="rect" id="node7" href="$ast__visitor_8cc.html" title="src/ast_visitor.cc" alt="" coords="23,160,146,189"/>
+<area shape="rect" id="node26" href="$parser_8cc.html" title="src/parser.cc" alt="" coords="1013,315,1111,344"/>
+<area shape="rect" id="node33" href="$type_8h.html" title="src/type.h" alt="" coords="301,83,381,112"/>
+<area shape="rect" id="node40" href="$parser__base_8h.html" title="src/parser_base.h" alt="" coords="1191,160,1317,189"/>
+<area shape="rect" id="node52" href="$parser_8h.html" title="src/parser.h" alt="" coords="975,237,1066,267"/>
+<area shape="rect" id="node62" href="$lexer_8h.html" title="src/lexer.h" alt="" coords="1069,83,1151,112"/>
+<area shape="rect" id="node69" href="$munchers_8h.html" title="src/munchers.h" alt="" coords="1325,83,1437,112"/>
+<area shape="rect" id="node76" href="$token_8cc.html" title="src/token.cc" alt="" coords="1461,83,1554,112"/>
+<area shape="rect" id="node5" href="$ast_8cc.html" title="src/ast.cc" alt="" coords="301,160,381,189"/>
+<area shape="rect" id="node9" href="$compile_8cc.html" title="src/compile.cc" alt="" coords="170,160,277,189"/>
+<area shape="rect" id="node11" href="$decl__parser_8cc.html" title="src/decl_parser.cc" alt="" coords="835,315,963,344"/>
+<area shape="rect" id="node13" href="$expr__parser_8cc.html" title="src/expr_parser.cc" alt="" coords="1187,315,1318,344"/>
+<area shape="rect" id="node15" href="$main_8cc.html" title="src/main.cc" alt="" coords="714,315,805,344"/>
+<area shape="rect" id="node17" href="$scope_8h.html" title="src/scope.h" alt="" coords="405,160,495,189"/>
+<area shape="rect" id="node22" href="$sema__visitor_8cc.html" title="src/sema_visitor.cc" alt="" coords="465,315,601,344"/>
+<area shape="rect" id="node28" href="$print__visitor_8cc.html" title="src/print_visitor.cc" alt="" coords="621,160,749,189"/>
+<area shape="rect" id="node31" href="$stmt__parser_8cc.html" title="src/stmt_parser.cc" alt="" coords="1411,315,1542,344"/>
+<area shape="rect" id="node19" href="$sema__visitor_8h.html" title="src/sema_visitor.h" alt="" coords="570,237,698,267"/>
+<area shape="rect" id="node24" href="$scope_8cc.html" title="src/scope.cc" alt="" coords="399,237,495,267"/>
+<area shape="rect" id="node42" href="$decl__parser_8h.html" title="src/decl_parser.h" alt="" coords="1191,237,1314,267"/>
+<area shape="rect" id="node48" href="$expr__parser_8h.html" title="src/expr_parser.h" alt="" coords="1485,237,1607,267"/>
+<area shape="rect" id="node56" href="$stmt__parser_8h.html" title="src/stmt_parser.h" alt="" coords="1338,237,1461,267"/>
+<area shape="rect" id="node60" href="$parser__base_8cc.html" title="src/parser_base.cc" alt="" coords="1631,237,1765,267"/>
+<area shape="rect" id="node65" href="$lexer_8cc.html" title="src/lexer.cc" alt="" coords="1615,160,1706,189"/>
+<area shape="rect" id="node72" href="$munchers_8cc.html" title="src/munchers.cc" alt="" coords="1730,160,1847,189"/>
+</map>

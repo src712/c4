@@ -1,0 +1,11 @@
+<map id="src/scope.cc" name="src/scope.cc">
+<area shape="rect" id="node3" href="$scope_8h.html" title="scope.h" alt="" coords="907,83,973,112"/>
+<area shape="rect" id="node5" href="$diagnostic_8h.html" title="diagnostic.h" alt="" coords="5,160,96,189"/>
+<area shape="rect" id="node7" href="$ast_8h.html" title="ast.h" alt="" coords="672,160,723,189"/>
+<area shape="rect" id="node48" href="$type_8h.html" title="type.h" alt="" coords="1264,160,1323,189"/>
+<area shape="rect" id="node9" href="$ast__fwd_8h.html" title="ast_fwd.h" alt="" coords="221,315,299,344"/>
+<area shape="rect" id="node11" href="$ast__visitor_8h.html" title="ast_visitor.h" alt="" coords="171,237,264,267"/>
+<area shape="rect" id="node14" href="$token_8h.html" title="token.h" alt="" coords="883,237,947,267"/>
+<area shape="rect" id="node24" href="$pos_8h.html" title="pos.h" alt="" coords="560,237,613,267"/>
+<area shape="rect" id="node27" href="$util_8h.html" title="util.h" alt="" coords="707,315,757,344"/>
+</map>

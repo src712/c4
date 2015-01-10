@@ -1,0 +1,6 @@
+void g (int x){
+     int* boo;
+     char* foo;
+     boo[3];
+     foo[5+3] * 4;
+}

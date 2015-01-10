@@ -1,0 +1,5 @@
+void f(void) {
+sizeof(void * (int));
+(sizeof(void (*)(int))));
+(sizeof(void ((*)(int))));
+ }

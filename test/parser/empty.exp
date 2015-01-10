@@ -1,0 +1,2 @@
+test/parser/empty.test:1:1: error: empty translation unit
+1 error(s)

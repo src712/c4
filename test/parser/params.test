@@ -1,0 +1,16 @@
+int f(void) { return 2; }
+int g(int x) { return 3; }
+int h(int x, int* y) { return 4; }
+
+int main(void) {
+    int y;
+    y = 0;
+    f();
+    g(y);
+    h(y, &y);
+    h(y, 'a'); // error wrong type of argument
+    f(y); // error, too many args
+    g(); // error, too few args
+    h(y, y); // error, wrong type of args
+    return y;
+}

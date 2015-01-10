@@ -1,0 +1,29 @@
+/* asdf */
+int x;
+// ff
+/*** asdf
+   
+**/
+
+/*********
+foobar
+//*********/
+
+//////////////
+int y;
+//////////////
+
+// wiki examples
+// this line will be ignored by the compiler
+ 
+/* these lines
+   will be ignored
+   by the compiler */
+ 
+x = *p/*q;  /* this comment starts after the 'p' */
+
+  /*
+    /*
+    x
+  */
+  */ // should be punctuators

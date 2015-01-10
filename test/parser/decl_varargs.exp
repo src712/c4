@@ -1,0 +1,6 @@
+test/parser/decl_varargs.test:2:18: error: '...' needs to be the last argument
+test/parser/decl_varargs.test:3:8: error: require an argument before '...'
+test/parser/decl_varargs.test:3:11: error: empty parameter list not allowed
+test/parser/decl_varargs.test:4:8: error: require an argument before '...'
+test/parser/decl_varargs.test:4:11: error: '...' needs to be the last argument
+5 error(s)

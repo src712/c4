@@ -1,0 +1,8 @@
+<map id="src/parser.h" name="src/parser.h">
+<area shape="rect" id="node5" href="$pos_8h.html" title="pos.h" alt="" coords="448,237,501,267"/>
+<area shape="rect" id="node9" href="$util_8h.html" title="util.h" alt="" coords="513,315,564,344"/>
+<area shape="rect" id="node21" href="$token_8h.html" title="token.h" alt="" coords="80,237,144,267"/>
+<area shape="rect" id="node31" href="$parser__base_8h.html" title="parser_base.h" alt="" coords="324,83,428,112"/>
+<area shape="rect" id="node36" href="$lexer_8h.html" title="lexer.h" alt="" coords="240,160,301,189"/>
+<area shape="rect" id="node43" href="$diagnostic_8h.html" title="diagnostic.h" alt="" coords="320,237,411,267"/>
+</map>

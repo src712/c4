@@ -1,0 +1,6 @@
+struct G;
+
+int main(void) {
+    struct G { int x; } g;
+    return sizeof g + sizeof(struct G);
+}

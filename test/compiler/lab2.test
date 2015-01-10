@@ -1,0 +1,10 @@
+int main(void) {
+    int x;
+    x = 3;
+    if(x < 7) {
+       goto a;
+    }
+    x = 10;
+    a: x = x + 2;
+    return x;
+}      

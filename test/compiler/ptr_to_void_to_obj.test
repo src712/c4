@@ -1,0 +1,16 @@
+struct G {
+  int x;
+  int y;
+}* g;
+
+
+struct G* f(void) {
+  void* x;
+  return x;
+}
+
+int main(void) {
+  if(f())
+    return 42;
+  return 8;
+}

@@ -1,0 +1,11 @@
+<map id="src/sema_visitor.h" name="src/sema_visitor.h">
+<area shape="rect" id="node3" href="$ast__fwd_8h.html" title="ast_fwd.h" alt="" coords="29,315,106,344"/>
+<area shape="rect" id="node5" href="$ast__visitor_8h.html" title="ast_visitor.h" alt="" coords="21,237,114,267"/>
+<area shape="rect" id="node8" href="$scope_8h.html" title="scope.h" alt="" coords="1211,83,1278,112"/>
+<area shape="rect" id="node10" href="$diagnostic_8h.html" title="diagnostic.h" alt="" coords="1349,160,1439,189"/>
+<area shape="rect" id="node12" href="$ast_8h.html" title="ast.h" alt="" coords="657,160,707,189"/>
+<area shape="rect" id="node50" href="$type_8h.html" title="type.h" alt="" coords="1215,160,1274,189"/>
+<area shape="rect" id="node16" href="$token_8h.html" title="token.h" alt="" coords="834,237,898,267"/>
+<area shape="rect" id="node26" href="$pos_8h.html" title="pos.h" alt="" coords="655,237,709,267"/>
+<area shape="rect" id="node29" href="$util_8h.html" title="util.h" alt="" coords="203,315,254,344"/>
+</map>

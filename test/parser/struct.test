@@ -1,0 +1,22 @@
+struct moo {
+  int x;
+};
+
+struct xx {
+  int x;
+};
+
+struct a { 
+ int *a;
+} sa;
+
+struct b;
+
+int main(void) {
+  char* x;
+  struct xx sx; 
+  int _;
+  _ = sx.x; // check for the right namespace
+  sa.a = &_;
+  return 1;
+}

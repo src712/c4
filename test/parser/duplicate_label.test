@@ -1,0 +1,6 @@
+int main(void) {
+    int x;
+    boo: x = 3;
+    boo: x = 6;
+    return x;
+}

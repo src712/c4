@@ -1,0 +1,2 @@
+test/parser/same_name_param.test:1:15: error: 'x' redeclared
+1 error(s)

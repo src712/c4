@@ -1,0 +1,27 @@
+int (main(void))
+{
+foo:
+	while (0)
+bar:
+		{
+baz:
+			(3 + 4);
+		}
+	while (0) {
+jessica:
+		36;
+	}
+boo:
+	if (0)
+sam:
+		2;
+	else if (0)
+joelle:
+		3;
+	else
+allyson:
+		if (0)
+			return 4;
+kaley:
+	return 72;
+}

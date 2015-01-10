@@ -1,0 +1,2 @@
+test/parser/missing_param_name.test:1:15: error: parameter name omitted
+1 error(s)

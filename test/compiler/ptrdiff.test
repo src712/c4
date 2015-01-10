@@ -1,0 +1,18 @@
+struct G {
+  int z;
+} g;
+
+int main(void) {
+    char* a;
+    a = "samantha";
+    char* c;
+    c = a + 3;
+    char* b;
+    b  = a + 5;
+    struct G* h;
+    h = &g;
+    struct G* k;	
+    k = &g;	
+    
+    return h - k + (b - c);
+}

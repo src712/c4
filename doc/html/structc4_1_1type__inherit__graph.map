@@ -1,0 +1,10 @@
+<map id="c4::type" name="c4::type">
+<area shape="rect" id="node3" href="$structc4_1_1error__type.html" title="c4::error_type" alt="" coords="5,83,107,112"/>
+<area shape="rect" id="node5" href="$structc4_1_1function__type.html" title="c4::function_type" alt="" coords="131,83,253,112"/>
+<area shape="rect" id="node7" href="$structc4_1_1object__type.html" title="c4::object_type" alt="" coords="277,83,387,112"/>
+<area shape="rect" id="node9" href="$structc4_1_1scalar__type.html" title="c4::scalar_type" alt="" coords="144,160,253,189"/>
+<area shape="rect" id="node15" href="$structc4_1_1struct__type.html" title="c4::struct_type" alt="" coords="277,160,387,189"/>
+<area shape="rect" id="node17" href="$structc4_1_1void__type.html" title="c4::void_type" alt="" coords="411,160,509,189"/>
+<area shape="rect" id="node11" href="$structc4_1_1arithmetic__type.html" title="c4::arithmetic_type" alt="" coords="59,237,192,267"/>
+<area shape="rect" id="node13" href="$structc4_1_1pointer__type.html" title="c4::pointer_type" alt="" coords="216,237,331,267"/>
+</map>

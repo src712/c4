@@ -1,0 +1,6 @@
+test/lexer/nonalpha.test:1:1: identifier wham
+test/lexer/nonalpha.test:1:5: error: stray '$' in program
+test/lexer/nonalpha.test:1:6: identifier bam
+test/lexer/nonalpha.test:1:9: error: stray '@' in program
+test/lexer/nonalpha.test:1:10: identifier thankyoumaam
+2 error(s)

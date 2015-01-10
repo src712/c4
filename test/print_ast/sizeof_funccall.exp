@@ -1,0 +1,15 @@
+int (f(void))
+{
+	return 3;
+}
+
+int (main(void))
+{
+	(sizeof (f()));
+	(sizeof (f()));
+	(sizeof (f()));
+	(sizeof (f()));
+	(sizeof (f()));
+	(sizeof (f()));
+	return 0;
+}

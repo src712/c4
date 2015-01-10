@@ -1,0 +1,20 @@
+<map id="src/diagnostic.h" name="src/diagnostic.h">
+<area shape="rect" id="node3" href="$lexer_8h.html" title="src/lexer.h" alt="" coords="601,83,684,112"/>
+<area shape="rect" id="node5" href="$parser__base_8h.html" title="src/parser_base.h" alt="" coords="429,160,555,189"/>
+<area shape="rect" id="node11" href="$expr__parser_8cc.html" title="src/expr_parser.cc" alt="" coords="5,315,136,344"/>
+<area shape="rect" id="node13" href="$parser_8cc.html" title="src/parser.cc" alt="" coords="467,315,565,344"/>
+<area shape="rect" id="node23" href="$main_8cc.html" title="src/main.cc" alt="" coords="731,315,821,344"/>
+<area shape="rect" id="node30" href="$parser__base_8cc.html" title="src/parser_base.cc" alt="" coords="684,237,817,267"/>
+<area shape="rect" id="node32" href="$lexer_8cc.html" title="src/lexer.cc" alt="" coords="680,160,771,189"/>
+<area shape="rect" id="node37" href="$diagnostic_8cc.html" title="src/diagnostic.cc" alt="" coords="947,83,1067,112"/>
+<area shape="rect" id="node42" href="$scope_8h.html" title="src/scope.h" alt="" coords="1091,83,1181,112"/>
+<area shape="rect" id="node47" href="$sema__visitor_8cc.html" title="src/sema_visitor.cc" alt="" coords="1116,237,1252,267"/>
+<area shape="rect" id="node7" href="$decl__parser_8h.html" title="src/decl_parser.h" alt="" coords="171,237,293,267"/>
+<area shape="rect" id="node17" href="$expr__parser_8h.html" title="src/expr_parser.h" alt="" coords="24,237,147,267"/>
+<area shape="rect" id="node21" href="$parser_8h.html" title="src/parser.h" alt="" coords="464,237,555,267"/>
+<area shape="rect" id="node26" href="$stmt__parser_8h.html" title="src/stmt_parser.h" alt="" coords="317,237,440,267"/>
+<area shape="rect" id="node9" href="$decl__parser_8cc.html" title="src/decl_parser.cc" alt="" coords="315,315,443,344"/>
+<area shape="rect" id="node15" href="$stmt__parser_8cc.html" title="src/stmt_parser.cc" alt="" coords="160,315,291,344"/>
+<area shape="rect" id="node44" href="$sema__visitor_8h.html" title="src/sema_visitor.h" alt="" coords="1069,160,1197,189"/>
+<area shape="rect" id="node49" href="$scope_8cc.html" title="src/scope.cc" alt="" coords="949,160,1045,189"/>
+</map>

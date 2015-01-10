@@ -1,0 +1,13 @@
+int f(int y) {
+    return 3;
+}
+int g(void) {
+    return 5;
+}
+int main(void) {
+    int f;
+    int g;
+    g = 3;
+    f = g + f(2);
+    return f;
+}

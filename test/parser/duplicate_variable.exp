@@ -1,0 +1,2 @@
+test/parser/duplicate_variable.test:3:5: error: 'x' redeclared
+1 error(s)

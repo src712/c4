@@ -1,0 +1,9 @@
+//struct G;
+struct G* g;
+struct G {
+   int s;
+};
+int main(void) {
+    g->s = 2;
+    return g->s;
+}

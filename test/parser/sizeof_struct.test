@@ -1,0 +1,9 @@
+struct G {
+  int x;
+  char* y;
+  char r;
+} l;
+int main(void){
+    sizeof(struct G);
+  return sizeof (struct G { int x; });
+}

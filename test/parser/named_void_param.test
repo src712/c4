@@ -1,0 +1,6 @@
+int f(void a) {    return 0;}
+int g(void, int);
+int l(int, void);
+int j(void a);
+void h(int x, void k) { }
+int r(void, int j) { return j + 1; }

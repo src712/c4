@@ -1,0 +1,12 @@
+struct G
+{
+	struct H
+	{
+		int ((*func0)(void));
+		int ((*func1)(int));
+		int ((*func2)(int, int));
+		int ((*func3)(int, int, int));
+	};
+	int num_args;
+	char valid;
+} (*handlers);

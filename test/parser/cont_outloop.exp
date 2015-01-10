@@ -1,0 +1,2 @@
+test/parser/cont_outloop.test:6:1: error: continue statement not within loop
+1 error(s)

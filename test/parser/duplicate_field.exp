@@ -1,0 +1,2 @@
+test/parser/duplicate_field.test:3:3: error: 'x' redeclared
+1 error(s)

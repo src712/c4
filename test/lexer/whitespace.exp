@@ -1,0 +1,8 @@
+test/lexer/whitespace.test:1:1: identifier a
+test/lexer/whitespace.test:1:3: identifier b
+test/lexer/whitespace.test:2:1: identifier a
+test/lexer/whitespace.test:2:3: identifier b
+test/lexer/whitespace.test:2:6: identifier c
+test/lexer/whitespace.test:2:8: punctuator .
+test/lexer/whitespace.test:3:1: constant '	'
+test/lexer/whitespace.test:4:1: string-literal "	"

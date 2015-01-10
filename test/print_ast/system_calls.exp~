@@ -1,0 +1,81 @@
+void (syscall_init(void));
+
+void (*(syscall_get_user_esp(void)));
+
+void (syscall_proc_terminated(int pid));
+
+void (*(*user_esps));
+
+struct handler
+{
+	struct uni_o_n
+	{
+		int ((*func0)(void));
+		int ((*func1)(int));
+		int ((*func2)(int, int));
+		int ((*func3)(int, int, int));
+	};
+	int num_args;
+	char valid;
+} (*handlers);
+
+void (syscall_handler(struct intr_frame (*)));
+
+void (syscall_init(void))
+{
+	(intr_register_int(30, 3, INTR_ON, syscall_handler, "syscall"));
+	(register_handler(SYS_HALT, sys_halt, 0));
+	(register_handler(SYS_EXIT, sys_exit, 1));
+	(register_handler(SYS_EXEC, sys_exec, 1));
+	(register_handler(SYS_WAIT, sys_wait, 1));
+	(register_handler(SYS_WRITE, sys_write, 3));
+	(register_handler(SYS_READ, sys_read, 3));
+	(register_handler(SYS_OPEN, sys_open, 1));
+	(register_handler(SYS_CREATE, sys_create, 2));
+	(register_handler(SYS_REMOVE, sys_remove, 1));
+	(register_handler(SYS_SEEK, sys_seek, 2));
+	(register_handler(SYS_TELL, sys_tell, 1));
+	(register_handler(SYS_CLOSE, sys_close, 1));
+	(register_handler(SYS_FILESIZE, sys_filesize, 1));
+	(register_handler(SYS_MMAP, sys_mmap, 2));
+	(register_handler(SYS_MUNMAP, sys_munmap, 1));
+	(register_handler(SYS_CHDIR, sys_chdir, 1));
+	(register_handler(SYS_MKDIR, sys_mkdir, 1));
+	(register_handler(SYS_READDIR, sys_readdir, 2));
+	(register_handler(SYS_ISDIR, sys_isdir, 1));
+	(register_handler(SYS_INUMBER, sys_inumber, 1));
+}
+
+void (*(syscall_get_user_esp(void)))
+{
+	int pid;
+	(pid = ((thread_current())->pid));
+	return (user_esps[pid]);
+}
+
+void (syscall_proc_terminated(int pid))
+{
+	((user_esps[pid]) = NULL);
+}
+
+void (syscall_handler(struct intr_frame (*f)))
+{
+	int num;
+	struct handler hdl;
+	int (*esp);
+	(esp = (f->esp));
+	int arg1;
+	int arg2;
+	int arg3;
+	int ret;
+	if ((!(get_user_32(esp, (&num)))))
+		(thread_exit());
+	(hdl = (handlers[num]));
+	if ((!(hdl.valid))) {
+		(printf("No handler for syscall #%u\n", num));
+		(thread_exit());
+	}
+	((user_esps[((thread_current())->pid)]) = NULL);
+	((f->eax) = ret);
+	return;
+}

@@ -1,0 +1,9 @@
+int f(void) {
+    return 4 - 72;
+}
+
+int main(void){
+    int x;
+    x = sizeof sizeof f();
+     return x;
+}

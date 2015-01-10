@@ -1,0 +1,4 @@
+void f(int a, int b, ...);
+void h(int a, ..., int b);
+void i(...);
+void j(..., int a);

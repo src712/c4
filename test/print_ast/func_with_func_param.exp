@@ -1,0 +1,12 @@
+int (f(char ((void))));
+
+int (f(char ((void))));
+
+int (f(char (a(void))));
+
+char ((*p)(void));
+
+int (main(void))
+{
+	return (sizeof(char ((*)(void))));
+}

@@ -1,0 +1,8 @@
+void f(int);
+int; // file scope 
+void g(void) { 
+int; // function scope 
+} 
+struct G { 
+int; // field, peculiar because now struct is empty? 
+}; 

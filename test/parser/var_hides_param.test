@@ -1,0 +1,5 @@
+int h(int y) {
+    int y;
+    y = 3;
+    return y;
+}

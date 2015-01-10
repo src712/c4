@@ -1,0 +1,13 @@
+struct X {
+  int x;
+  char f;
+};
+
+struct Y;
+
+struct H{
+  struct Y {
+    int x;
+  } XX;
+  char v;
+};

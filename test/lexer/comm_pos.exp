@@ -1,0 +1,12 @@
+test/lexer/comm_pos.test:1:10: identifier x
+test/lexer/comm_pos.test:1:12: punctuator =
+test/lexer/comm_pos.test:1:14: constant 3
+test/lexer/comm_pos.test:1:15: punctuator ;
+test/lexer/comm_pos.test:2:1: identifier grr
+test/lexer/comm_pos.test:4:14: identifier y
+test/lexer/comm_pos.test:4:15: punctuator ;
+test/lexer/comm_pos.test:7:7: identifier a
+test/lexer/comm_pos.test:7:12: identifier b
+test/lexer/comm_pos.test:7:17: identifier c
+test/lexer/comm_pos.test:8:1: identifier z
+test/lexer/comm_pos.test:8:2: punctuator ;

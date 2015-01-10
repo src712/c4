@@ -1,0 +1,7 @@
+int main(void) {
+int foo;       
+int bar;
+int baz;
+foo = bar = baz = 7;
+return baz;
+}

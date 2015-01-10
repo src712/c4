@@ -1,0 +1,4 @@
+int x;
+char y;
+void g(void);
+int f(int x, void**, char*****);
