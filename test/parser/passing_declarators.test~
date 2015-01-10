@@ -1,5 +1,0 @@
-int f(int, char*);
-int g(int x, int);
-int k(char*, char* x);
-int j(void);
-int j(void) { return 2; }

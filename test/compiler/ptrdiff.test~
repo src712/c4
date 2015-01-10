@@ -1,6 +1,0 @@
-int main(void) {
-    char* a;
-    a = "samantha";
-    char* b = a[5];
-    return b - a;
-}

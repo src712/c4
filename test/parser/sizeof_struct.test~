@@ -1,8 +1,0 @@
-struct G {
-  int x;
-  char* y;
-  char r;
-} l;
-int main(void){
-  return sizeof (struct G);
-}

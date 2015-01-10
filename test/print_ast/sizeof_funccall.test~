@@ -1,4 +1,0 @@
-int f(void) { return 3; }
-int main(void) {
-    return sizeof(f)();
-}
